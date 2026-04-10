@@ -152,7 +152,7 @@ defined:44  schema:director       wikidata:Q447847 ;
 wikidata:Q450382  rdf:type  schema:Person .
 
 defined:65  schema:keyword    defined:35mm ;
-        schema:Grant          "151000"^^xsd:int ;
+        schema:Grant          "151000"^^xsd:integer ;
         schema:Country        geonames:6252001 ;
         schema:genre          defined:Melodrama ;
         schema:datePublished  wikidata:Q5188 ;
@@ -235,7 +235,7 @@ defined:57  schema:director       wikidata:Q292795 ;
 
 viaf:134275260  rdf:type  schema:Organization .
 
-defined:78  schema:Offer          "9929"^^xsd:int ;
+defined:78  schema:Offer          "9929"^^xsd:integer ;
         schema:keyword            defined:Color ;
         rdf:type                  schema:Movie ;
         schema:keyword            defined:35mm ;
@@ -270,7 +270,7 @@ defined:108  schema:productionCompany  viaf:131819662 ;
         schema:datePublished      wikidata:Q2476 ;
         schema:keyword            defined:Mono ;
         schema:keyword            defined:1.37:1 ;
-        schema:Offer              "263"^^xsd:int ;
+        schema:Offer              "263"^^xsd:integer ;
         schema:name               "Sambizanga" .
 
 viaf:135256632  rdf:type  schema:Organization .
@@ -300,13 +300,13 @@ defined:49  rdf:type              schema:Movie ;
         schema:director           wikidata:Q11860533 ;
         schema:keyword            defined:1.37:1 ;
         schema:datePublished      wikidata:Q18649 ;
-        schema:Grant              "142000"^^xsd:int ;
+        schema:Grant              "142000"^^xsd:integer ;
         schema:genre              defined:Comedy ;
         schema:productionCompany  viaf:155903863 ;
         schema:Country            geonames:660013 ;
         schema:keyword            defined:35mm .
 
-defined:70  schema:Grant      "175000"^^xsd:int ;
+defined:70  schema:Grant      "175000"^^xsd:integer ;
         schema:genre          defined:Crime ;
         schema:genre          defined:Filmnoir ;
         schema:Country        geonames:6252001 ;
@@ -334,8 +334,8 @@ defined:100  schema:datePublished  wikidata:Q2485 ;
         rdf:type                  schema:Movie ;
         schema:keyword            defined:Mono ;
         schema:keyword            defined:1.66:1 ;
-        schema:Offer              "4692"^^xsd:int ;
-        schema:Grant              "81000"^^xsd:int ;
+        schema:Offer              "4692"^^xsd:integer ;
+        schema:Grant              "81000"^^xsd:integer ;
         schema:Country            geonames:3017382 ;
         schema:director           wikidata:Q528421 ;
         schema:name               "A Very Curious Girl" ;
@@ -445,7 +445,7 @@ defined:54  schema:Country    geonames:6252001 ;
         schema:genre          defined:Experimental ;
         schema:genre          defined:Mystery ;
         schema:director       wikidata:Q450382 ;
-        schema:Grant          "275"^^xsd:int ;
+        schema:Grant          "275"^^xsd:integer ;
         schema:keyword        defined:35mm ;
         schema:genre          defined:Drama .
 
@@ -464,7 +464,7 @@ defined:75  schema:datePublished  wikidata:Q18577 ;
         schema:Country            geonames:3017382 ;
         schema:productionCompany  viaf:121570109 ;
         rdf:type                  schema:Movie ;
-        schema:Offer              "1596"^^xsd:int .
+        schema:Offer              "1596"^^xsd:integer .
 
 defined:96  schema:keyword    defined:Mono ;
         schema:keyword        defined:BW ;
@@ -486,7 +486,7 @@ defined:105  schema:director      wikidata:Q454156 ;
         schema:name               "A New Leaf" ;
         schema:keyword            defined:35mm ;
         schema:datePublished      wikidata:Q2475 ;
-        schema:Offer              "308"^^xsd:int ;
+        schema:Offer              "308"^^xsd:integer ;
         schema:productionCompany  viaf:3166290473400462609 ;
         schema:productionCompany  viaf:134085723 ;
         schema:Country            geonames:6252001 ;
@@ -495,7 +495,7 @@ defined:105  schema:director      wikidata:Q454156 ;
         schema:keyword            defined:Mono ;
         schema:productionCompany  viaf:800159474192027661080 ;
         schema:genre              defined:Romance ;
-        schema:Grant              "4000000"^^xsd:int .
+        schema:Grant              "4000000"^^xsd:integer .
 
 geonames:2635167  rdf:type  schema:Country .
 
@@ -621,7 +621,7 @@ defined:80  schema:name       "The Golden Calf" ;
         schema:Country        geonames:660013 ;
         schema:keyword        defined:Mono ;
         schema:genre          defined:Comedy ;
-        schema:Grant          "3361500"^^xsd:int ;
+        schema:Grant          "3361500"^^xsd:integer ;
         schema:keyword        defined:1.37:1 .
 
 viaf:135256229  rdf:type  schema:Organization .
@@ -719,11 +719,11 @@ defined:102  schema:genre     defined:Crime ;
         schema:name           "Wanda" ;
         schema:keyword        defined:Color ;
         rdf:type              schema:Movie ;
-        schema:Grant          "115000"^^xsd:int ;
+        schema:Grant          "115000"^^xsd:integer ;
         schema:keyword        defined:Mono ;
         schema:datePublished  wikidata:Q2474 ;
         schema:keyword        defined:35mm ;
-        schema:Offer          "108692"^^xsd:int ;
+        schema:Offer          "108692"^^xsd:integer ;
         schema:Country        geonames:6252001 ;
         schema:director       wikidata:Q442111 .
 
@@ -757,7 +757,7 @@ defined:43  rdf:type              schema:Movie ;
 viaf:713159474334527662509
         rdf:type  schema:Organization .
 
-defined:64  schema:Grant          "153000"^^xsd:int ;
+defined:64  schema:Grant          "153000"^^xsd:integer ;
         schema:director           wikidata:Q195029 ;
         schema:keyword            defined:35mm ;
         schema:name               "Not Wanted" ;
@@ -894,7 +894,7 @@ defined:27  schema:director       wikidata:Q463767 ;
         schema:Country            geonames:8354411 .
 
 defined:48  schema:productionCompany  viaf:159780097 ;
-        schema:Grant              "300000"^^xsd:int ;
+        schema:Grant              "300000"^^xsd:integer ;
         schema:keyword            defined:1.37:1 ;
         schema:datePublished      wikidata:Q18649 ;
         schema:keyword            defined:35mm ;
@@ -1048,7 +1048,7 @@ wikidata:Q18715873  rdf:type  schema:Person .
 
 defined:74  schema:name           "The Eternal Breasts" ;
         schema:genre              defined:Biography ;
-        schema:Offer              "5394"^^xsd:int ;
+        schema:Offer              "5394"^^xsd:integer ;
         schema:Country            geonames:1861060 ;
         schema:productionCompany  viaf:137233656 ;
         schema:genre              defined:Romance ;
@@ -1071,7 +1071,7 @@ defined:95  schema:keyword    defined:Mono ;
         rdf:type              schema:Movie .
 
 defined:104  schema:name      "The Long Farewell" ;
-        schema:Offer          "4168"^^xsd:int ;
+        schema:Offer          "4168"^^xsd:integer ;
         schema:Country        geonames:8354411 ;
         schema:director       wikidata:Q435805 ;
         schema:keyword        defined:1.37:1 ;
@@ -1195,7 +1195,7 @@ defined:79  schema:keyword        defined:1.37:1 ;
         schema:genre              defined:Drama ;
         schema:keyword            defined:35mm ;
         schema:productionCompany  viaf:309839498 ;
-        schema:Grant              "167000"^^xsd:int ;
+        schema:Grant              "167000"^^xsd:integer ;
         schema:datePublished      wikidata:Q3696 ;
         rdf:type                  schema:Movie ;
         schema:director           wikidata:Q774517 ;
@@ -1216,7 +1216,7 @@ defined:109  schema:name      "The Seduction of Mimi" ;
         schema:director       wikidata:Q53039 ;
         schema:Country        geonames:3175395 ;
         schema:keyword        defined:Mono ;
-        schema:Offer          "466215"^^xsd:int .
+        schema:Offer          "466215"^^xsd:integer .
 
 defined:29  schema:productionCompany  viaf:135002219 ;
         schema:director           wikidata:Q447847 ;
@@ -1238,7 +1238,7 @@ viaf:78159032660001181638
         rdf:type  schema:Organization .
 
 defined:50  schema:director       wikidata:Q447847 ;
-        schema:Grant              "960000"^^xsd:int ;
+        schema:Grant              "960000"^^xsd:integer ;
         schema:name               "The Bride Wore Red" ;
         schema:datePublished      wikidata:Q18647 ;
         schema:genre              defined:Comedy ;
@@ -1256,7 +1256,7 @@ defined:71  schema:keyword    defined:35mm ;
         rdf:type              schema:Movie ;
         schema:name           "The Hitch-Hiker" ;
         schema:genre          defined:Thriller ;
-        schema:Grant          "200000"^^xsd:int ;
+        schema:Grant          "200000"^^xsd:integer ;
         schema:director       wikidata:Q148669 ;
         schema:datePublished  wikidata:Q18585 ;
         schema:Country        geonames:6252001 .
@@ -1342,7 +1342,7 @@ defined:84  schema:keyword        defined:Mono ;
         schema:datePublished      wikidata:Q2755 ;
         schema:keyword            defined:BW ;
         schema:director           wikidata:Q53039 ;
-        schema:Offer              "720"^^xsd:int ;
+        schema:Offer              "720"^^xsd:integer ;
         schema:Country            geonames:3175395 ;
         schema:name               "The Lizards" ;
         rdf:type                  schema:Movie ;
@@ -1475,13 +1475,13 @@ defined:47  schema:productionCompany  viaf:153798586 ;
         schema:keyword            defined:1.37:1 ;
         schema:genre              defined:Documentary ;
         schema:datePublished      wikidata:Q18658 ;
-        schema:Grant              "171000"^^xsd:int ;
+        schema:Grant              "171000"^^xsd:integer ;
         schema:name               "Triumph of the Will" ;
         schema:genre              defined:History .
 
 defined:68  schema:productionCompany  viaf:135436606 ;
         schema:productionCompany  viaf:306258775 ;
-        schema:Offer              "9934"^^xsd:int ;
+        schema:Offer              "9934"^^xsd:integer ;
         schema:director           wikidata:Q468027 ;
         schema:genre              defined:Drama ;
         schema:datePublished      wikidata:Q18591 ;
