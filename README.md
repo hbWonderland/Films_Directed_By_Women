@@ -9,7 +9,7 @@ I chose this dataset as an AFAB filmmaker myself with a background in film studi
 Unfortunately, many films in the dataset published here are obscure, and several were removed due to lack of external linking options.
 
 ## Ontologies and Controlled Vocabularies
-Schema.org, XSD, RDFs
+Schema.org, Wikidata, VIAF, Geonames, my own defined terms set (for genre, keywords, and format), XSD, RDFs
 
 ## Linking Strategy
 Originally the goal with this collection was to use a healthy collection of links to: 
