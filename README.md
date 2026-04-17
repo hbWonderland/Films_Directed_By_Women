@@ -24,7 +24,43 @@ However, due to the obscure nature of many of these films, the linking strategy 
 * VIAF for schema:productionCompany
 * Geonames for schema:countryOfOrigin
 
-The budget and box office gross numbers are pulled from IMDB, but as literals they do not link to their source. Finally, for genre, subgenre/keyword, and format, I created my own defined term sets and hosted them on my website - there are notoriously few useful controlled vocabularies for physical film media and genres of critical and popular relevance.
+The budget and box office gross numbers are pulled from IMDB, but as literals they do not link to their source. Finally, for genre, subgenre/keyword, and format, I created my own defined term sets and hosted them on [my website](https://andigraceson.media/tech/) - there are notoriously few useful controlled vocabularies for physical film media and genres of critical and popular relevance. The following is a complete list of defined terms by property:
+
+**Genre:**
+* Short
+* Drama
+* Comedy
+* Romance
+* Mystery
+* Crime
+* War
+* Western
+* Science Fiction
+* Horror
+* Action
+* Film noir
+* Thriller
+* Sport
+* Biography
+* Documentary
+* Experiemental
+* Animation
+* Musical
+
+**Subgeneres and Keywords:**
+* Melodrama
+* Whodunnit
+* History
+* Epic
+* Adventure
+* Political Drama
+* Spaghetti Western
+* LGBTQ
+* Biker
+* Revenge
+
+**Formats:** 
+Large Format, Silent, 35mm, 1.33:1, 1.20:1, 1.37:1, 1.66:1, 1.85:1, 2.35:1, Mono, Color, BW, Cinemascope
 
 ## Sample Triples
 * [Bury Me an Angel](https://www.wikidata.org/wiki/Q5001110) is a [Movie](https://schema.org/Movie).
